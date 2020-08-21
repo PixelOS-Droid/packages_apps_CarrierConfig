@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <carrier_config>
+    <boolean name="carrier_name_override_bool" value="true" />
+    <string name="carrier_name_string">China Mobile</string>
+    <string name="carrier_name_string_zh-rCN">中国移动</string>
+    <string name="carrier_name_string_zh-rTW">中國移動</string>
     <boolean name="allow_emergency_numbers_in_call_log_bool" value="true"/>
     <boolean name="support_tdscdma_bool" value="true"/>
     <boolean name="allow_add_call_during_video_call" value="false" />
